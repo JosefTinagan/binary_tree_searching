@@ -5,3 +5,4 @@ module BinaryTree
 end
 
 require_relative './binary_tree/node.rb'
+require_relative './binary_tree/tree.rb'
